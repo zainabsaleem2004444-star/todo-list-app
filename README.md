@@ -41,11 +41,8 @@ Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributin
 * For Type Writing effects: [Type-effects](https://usefulangle.com/post/85/css-typewriter-animation)
 * For Local Storage: [Web Dev Simplified Blog](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/)
 
-# *Contributions*
 
-- All contributors are most welcome! This is definitely open source!
-- View the [`CONTRIBUTING.md`](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTING.md) for further instructions, requirements/dependencies & local project setup instructions!
-- All the contributors to this repository can be found in the [`CONTRIBUTORS.md`](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTORS.md) file!
+
 
 ## *WEBSITE DEMO*
 
@@ -59,5 +56,5 @@ Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributin
 
 # *Author*
 
-* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/tusharnankani)
+* Zainab Saleem (zainabsaleem2004444@gmail.com)
+
